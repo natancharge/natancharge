@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natancharge
 - 👀 I’m interested in coding, nature, and exploring my skills' limits.
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development and DATA Analysis.
 - 📫 How to reach me: https://linktr.ee/netanelchertkov
 
 <!---
