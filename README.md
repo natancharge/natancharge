@@ -9,7 +9,7 @@ I've been learning to code for 3 years. I started with C# and Python, but I have
 * 🌍  I'm based in Ashdod
 * 🖥️  See my portfolio at [My website](http://natancharge.github.io)
 * ✉️  You can contact me at [natancharge@gmail.com](mailto:natancharge@gmail.com)
-* 🚀  I'm currently working on [Forum "Mehubarim"](https://github.com/natancharge/ChatApp)
+* 🚀  I'm currently working on [Jooba](https://github.com/jooba-ai)
 * 🧠  I'm learning Node.js, NumPy, JS
 * 🤝  I'm open to collaborating on indie game projects!
 * ⚡  I am also an online tutor, so feel free to reach out for help in C#, Python, HTML, CSS, SASS, and SQL.
