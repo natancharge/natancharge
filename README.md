@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science & Software Engineering student
 -----------------------------------------------
 
-I've been learning to code for 3 years. I started with C# and Python, but I have found a passion for web development as well!!!
+I've been learning to code for 4 years. I started with C# and Python, but I have also found a passion for web development!
 
 * 🌍  I'm based in Ashdod
 * 🖥️  See my portfolio at [My website](http://natancharge.github.io)
 * ✉️  You can contact me at [natancharge@gmail.com](mailto:natancharge@gmail.com)
 * 🚀  I'm currently working on [Jooba](https://github.com/jooba-ai)
-* 🧠  I'm learning Node.js, NumPy, JS
+* 🧠  I'm learning Full Stack development.
 * 🤝  I'm open to collaborating on indie game projects!
 * ⚡  I am also an online tutor, so feel free to reach out for help in C#, Python, HTML, CSS, SASS, and SQL.
 
